@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from telegram import Bot
 
 bot_token = "6599451091:AAGLdTyDl1CL7R9cxo7LDGZBDt08ppGz7L8"
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = [{"role": "system", "content": "You are a kind helpful assistant"}]
 
